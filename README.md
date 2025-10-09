@@ -1,6 +1,6 @@
 # <span><img src="https://github.com/user-attachments/assets/c2c92d90-0884-4514-a5a2-269df3d8f9b8" width="25px" height="30px">  Shik-Shok <span>
 <br>
-<p align="center">🍔 Shik-Shok(식사를 쇽)은 실시간 음식 주문과 점주 사용자에게 점포 관리 기능을 제공하는 웹 플랫폼 입니다. 🍟 </p>
+<p align="center">🍔 Shik-Shok(식사를 쇽)은 실시간 음식 주문과 점주 사용자에게 점포 관리 기능을 제공하는 웹 서비스 입니다. 🍟 </p>
 <br>
 <p align="center"><img src="https://github.com/user-attachments/assets/77210ee4-d519-46f3-9f3f-d8e506c29429"></p>
 <br><br><br><br>
@@ -80,4 +80,5 @@ npm start
 
 ## Contact
 이메일: kim.hj.11x6@gmail.com
+
 
